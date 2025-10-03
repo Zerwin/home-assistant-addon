@@ -39,4 +39,5 @@ privileged:
 - SYS_ADMIN
 - DAC_READ_SEARCH
 audio: true
-usb: true
+devices:
+- /dev/snd
