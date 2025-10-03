@@ -39,3 +39,4 @@ privileged:
 - DAC_READ_SEARCH
 devices:
 - /dev/snd
+audio: true
