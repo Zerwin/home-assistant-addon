@@ -19,7 +19,6 @@ uart: true
 udev: true
 map:
 - media:rw
-- 
 init: false
 advanced: false
 backup_exclude:
